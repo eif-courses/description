@@ -15,7 +15,7 @@ Game rules and description:
   - Traveling requires resources for food and water. Searching for gold and relics you need food, water and weapons.
   - If not enough food you can't travel, but you can search for gold and relics then you lost 1 crew member.
   - A quest requires weapons, if you search for gold, you loose 1 weapon per quest.
-  - If the crew is unarmed, people are lost, one unarmed crew member dies in search of gold in one quest.
-  - If a relic is searched, it is 3 losses per search, if there are enough weapons, then 3 weapons are lost, and if there are none, as many people die as there are missing weapons.
-  - Only one relic can be found on one planet, to search for another relic, you need to travel to another planet.
+  - If the crew is unarmed, you loose some crew members, when you have unarmed crew member and search gold you loose that member.
+  - If a relic is searching, you loose 3 crew members. If there are enough weapons you also loose 3 weapons. If you dosen't have a weapons left then you loose all crew members without the weapons.
+  - Only one unique relic can be found in single planet, to search for another relic, you need to travel to another planet.
   - If the entire crew dies, the game will be lost.
